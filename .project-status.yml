@@ -1,17 +1,20 @@
 project:
-  name: ""
-  description: ""
+  name: prog-data-sync-tool
+  description: ''
   tools: []
-  current_focus: ""
+  current_focus: ''
   needs: []
   links:
-    docs: ""
-    staging: ""
-    production: ""
+    docs: ''
+    staging: ''
+    production: ''
   team:
-    lead: ""
-    contributors: []
+    lead: willlevinson
+    contributors:
+    - jjackson12
+    - pauldingus
+    - dladanyi
   campaign:
-    candidate: ""
-    office: ""
+    candidate: ''
+    office: ''
   auto_refresh: true
